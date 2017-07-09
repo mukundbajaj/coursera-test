@@ -1,0 +1,45 @@
+.navbar-default .navbar-nav > li > a
+{
+	font-weight: bold;
+
+}
+h2
+{
+	margin-bottom: 40px;
+
+}
+
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: -15px;
+  margin-bottom: -20px;
+}
+
+.my-text-content
+{
+	text-align: center;
+	height:1000px;
+	background-color: #d6d6c2;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.my-header
+{
+
+	font-weight: bold;
+	font-size:1.2em;
+}
+
+.spacing1
+{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
